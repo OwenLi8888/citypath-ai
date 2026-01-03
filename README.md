@@ -63,6 +63,22 @@ citypath-ai/
 
 ---
 
+## Screenshots
+
+**Scenario Input (Smart Document Upload)**  
+Upload a document or manually provide context to automatically populate analysis fields.
+![Scenario Upload](images/upload.png)
+
+**Design Option Comparison and Tradeoff Analysis**  
+Side-by-side comparison of implementation options with cost, safety impact, and qualitative trade-offs.
+![Options Comparison](images/options-comparison.png)
+
+**Safety Intervention Planning Visualization**  
+Conceptual intersection diagram illustrating recommended safety interventions and placement.
+![Solution Planning](images/solution-planning.png)
+
+---
+
 ## Design Documentation
 The file `spec.md` contains the original product specification and feature roadmap, including:
 - Planned visual generation
