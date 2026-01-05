@@ -95,5 +95,6 @@ Built during a hackathon focused on applying AI and analytics to real-world urba
 ---
 
 ## Author
-Owen Li  
-Management Engineering, University of Waterloo
+Owen Li (Management Engineering, University of Waterloo) and Evan Liem (Management Engineering, University of Waterloo)
+
+
